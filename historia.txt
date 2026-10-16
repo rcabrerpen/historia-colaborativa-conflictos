@@ -1,3 +1,5 @@
 Érase una vez en un reino digital un estudiante de DAM que se enfrentaba a su primer entorno de desarrollo.
 El camino estaba lleno de commits perdidos y conflictos de código, pero su persistencia era inquebrantable.
 Con cada comando de Git que dominaba, se acercaba más a convertirse en un verdadero arquitecto de software.
+
+Un día, al ejecutar un git merge, las alarmas de la terminal se encendieron: un conflicto masivo amenazaba con corromper todo el repositorio. Lejos de rendirse, el estudiante respiró hondo, abrió el archivo en conflicto y, línea por línea, combinó lo mejor de ambos mundos con la precisión de un cirujano. Con un último git push, el código fluyó limpio hacia el servidor remoto, tiñendo las gráficas de GitHub de un verde brillante. La batalla había terminado; el estudiante ya no era un simple aprendiz, sino el dueño absoluto de su propio entorno.
