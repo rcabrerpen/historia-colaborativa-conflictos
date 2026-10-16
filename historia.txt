@@ -1,3 +1,7 @@
 Érase una vez en un reino digital un estudiante de DAM que se enfrentaba a su primer entorno de desarrollo.
 El camino estaba lleno de commits perdidos y conflictos de código, pero su persistencia era inquebrantable.
 Con cada comando de Git que dominaba, se acercaba más a convertirse en un verdadero arquitecto de software.
+
+Un día, tras superar el temido error de las carpetas ocultas en el Explorador, el estudiante respiró hondo y abrió su terminal con paso firme.
+Ya no temía a los caminos misteriosos, pues sabía exactamente hacia dónde se dirigía su código.
+
