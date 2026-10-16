@@ -1,3 +1,5 @@
 Érase una vez en un reino digital un estudiante de DAM que se enfrentaba a su primer entorno de desarrollo.
 El camino estaba lleno de commits perdidos y conflictos de código, pero su persistencia era inquebrantable.
 Con cada comando de Git que dominaba, se acercaba más a convertirse en un verdadero arquitecto de software.
+El estudiante trabajó duro en su terminal y logró subir todo el código.
+Finalmente, se convirtió en el mejor programador del reino y vivió feliz sin errores de sintaxis.
